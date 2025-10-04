@@ -14,10 +14,6 @@ It uses a moisture sensor to detect water levels and a servo motor to lift the b
 - Breadboard
 - Sunboard (for bridge structure)
 
-## Circuit Diagram
-
-![Circuit Diagram](smart-bridge/images/SB.png)
-
 ## How it Works
 
 1. Moisture sensor detects rising water.
